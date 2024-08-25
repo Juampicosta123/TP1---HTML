@@ -11,7 +11,7 @@ Este es un proyecto de práctica básica de HTML que incluye la implementación 
 Hay 2 opciones:
 1. **Clonar el repositorio**: Si aún no lo has hecho, clona el repositorio en local.
    ```bash
-   git clone https://github.com/Juampicosta123
+   git clone https://github.com/Juampicosta123/TP1---HTM
 2. **Ver página deployeada con github pages**: Si aún no lo has hecho, clona el repositorio en tu máquina local.
   [Página](https://juampicosta123.github.io/TP1---HTML/)
 
